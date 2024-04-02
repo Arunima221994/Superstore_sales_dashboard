@@ -1,0 +1,1 @@
+Created an extensive Power BI dashboard using Global Superstore Data, presenting in-depth sales analysis and profit visualization - incorporating multiple filtering options for market & category segmentation, providing a comprehensive visualization of sales profitability across all KPIs.
